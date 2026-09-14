@@ -12,8 +12,8 @@ Project ini bertujuan untuk menganalisis data transaksi mentah kimia farma, lalu
 2. video presentasi
 
 ## Tautan 
-**Dashboard Looker Studio saya:**   : https://datastudio.google.com/reporting/bf9d4035-409f-485f-9b17-0cf271fef2ea
+**Dashboard Looker Studio saya:**   https://datastudio.google.com/reporting/bf9d4035-409f-485f-9b17-0cf271fef2ea
 
-**Video Presentasi:**               : https://youtu.be/vbffb9-zZF0?si=wlc2JaAMnGgOSALS
+**Video Presentasi:**                https://youtu.be/vbffb9-zZF0?si=wlc2JaAMnGgOSALS
 
 
